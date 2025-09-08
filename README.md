@@ -15,7 +15,7 @@ De website die ik gekozen heb is [Plaid](https://www.plaid.com) en als [Tweede](
 
 We kregen een introductie hoe wij onze website konden testen op toegankelheid. Met behulp van de ingebouwde functie van Windows waar hij alles text-to-speech laat horen met behulp van TAB en andere toetsen. 
 
-# Bevindingen
+### Bevindingen
 
 De Home Page kwam goed door de toegankelheids test doorheen zonder enige problemen. 
 
