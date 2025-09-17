@@ -45,6 +45,9 @@ Bij de voortgangsgesprek zou ik willen hebben over mijn html code & schets. Indi
 
 | Robin        | Kaj-Benjamin  | Lisa        | Kaa         |
 |--------------|---------------|-------------|-------------|
-| - Readme     | - [ ] Punt 1  | - [ ] Punt 1| - Readme    |
-| - Html       | - [ ] Punt 2  | - [ ] Punt 2| - Html      |
-| - Schets     | - [ ] Punt 3  | - [ ] Punt 3| - Schets    |
+| - Readme     | - Readme      | - Hoe ga ik de slider op de homepage aanpakken?| - Readme    |
+| - Html       | - Html        | - Breakdownschets nagaan| - Html      |
+| - Schets     | - Schets      | - De divs / classes op sommige plekken, correct gebruikt of niet?| - Schets|
+| | |- Kijken of mijn Html semantisch correct is | |
+| | |- Css  opzet checken | |
+| | |- Ik wil minder gaan nesten en onnodige divs gbruiken, hoe pak ik dit aan | |
