@@ -41,7 +41,7 @@ Bij het maken van je schets is het een mooi overzicht om een begin te maken aan 
 
 Bij de voortgangsgesprek zou ik willen hebben over mijn html code & schets. Indien dat goedgekeurd is zal ik beginnen om de css toe te passen.
 
-# Agenda
+#### Agenda
 
 | Robin        | Kaj-Benjamin  | Lisa        | Kaa         |
 |--------------|---------------|-------------|-------------|
