@@ -22,3 +22,29 @@ De Home Page kwam goed door de toegankelheids test doorheen zonder enige problem
 Bij de tweede pagina kwam ik wel vast komen te zitten. Wanneer ik TAB of de pijltjes toets klikte sloeg hij een heel stuk van de site over. Ik had Viresh hierover om hulp gevraagd en kwam hij tot de conclusie dat dit komt door onnodig gebruik van `div`.
 
 Een ander punt is dat er wat aantal links onder aan de pagina zitten met de zelfde benaming: `read story`.
+
+## Week 3 - Grid, Schets & Voortgang <details open>
+
+### Grid
+
+Omdat ik nog redelijk moet inkomen met coderen vond ik het best belangrijk om dit stukje van de les goed op te letten een de opdrachten te maken. Een aantal voorbeelden die Sanne voordeed in de klas zouden goed van pas komen voor mijn website.
+
+![Grid-oefeningen](/readme-images/grid-oefeningen.png)
+
+### Schets
+
+Bij het maken van je schets is het een mooi overzicht om een begin te maken aan je html pagina. Sinds mijn homepagina vrij lang is heb ik alleen een gedeelte van mijn homepagina-schets uitgewerkt.
+
+![Schets-home](/readme-images/schets-home.png)
+
+### Voortgang
+
+Bij de voortgangsgesprek zou ik willen hebben over mijn html code & schets. Indien dat goedgekeurd is zal ik beginnen om de css toe te passen.
+
+# Agenda
+
+| Robin        | Kaj-Benjamin  | Lisa        | Kaa         |
+|--------------|---------------|-------------|-------------|
+| - [ ] Readme | - [ ] Punt 1  | - [ ] Punt 1| - [ ] Readme|
+| - [ ] Html   | - [ ] Punt 2  | - [ ] Punt 2| - [ ] Html  |
+| - [ ] Schets | - [ ] Punt 3  | - [ ] Punt 3| - [ ] Schets|
