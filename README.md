@@ -45,6 +45,6 @@ Bij de voortgangsgesprek zou ik willen hebben over mijn html code & schets. Indi
 
 | Robin        | Kaj-Benjamin  | Lisa        | Kaa         |
 |--------------|---------------|-------------|-------------|
-| - [ ] Readme | - [ ] Punt 1  | - [ ] Punt 1| - [ ] Readme|
-| - [ ] Html   | - [ ] Punt 2  | - [ ] Punt 2| - [ ] Html  |
-| - [ ] Schets | - [ ] Punt 3  | - [ ] Punt 3| - [ ] Schets|
+| - Readme     | - [ ] Punt 1  | - [ ] Punt 1| - Readme    |
+| - Html       | - [ ] Punt 2  | - [ ] Punt 2| - Html      |
+| - Schets     | - [ ] Punt 3  | - [ ] Punt 3| - Schets    |
