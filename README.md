@@ -23,7 +23,7 @@ Bij de tweede pagina kwam ik wel vast komen te zitten. Wanneer ik TAB of de pijl
 
 Een ander punt is dat er wat aantal links onder aan de pagina zitten met de zelfde benaming: `read story`.
 
-## Week 3 - Grid, Schets & Voortgang <details open>
+## Week 3 - Grid, Schets & Voortgang <open>
 
 ### Grid
 
