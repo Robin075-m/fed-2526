@@ -51,3 +51,17 @@ Bij de voortgangsgesprek zou ik willen hebben over mijn html code & schets. Indi
 | | |- Kijken of mijn Html semantisch correct is | |
 | | |- Css  opzet checken | |
 | | |- Ik wil minder gaan nesten en onnodige divs gbruiken, hoe pak ik dit aan | |
+
+#### Voortgangsgesprek - Wat hebben we besproken?
+
+Tijdens het gesprek gingen we onder andere naar mijn werk kijken (de html). Sanne vroeg bij mijn aria-label waarvoor ik dat had gebruikt. Ik wist eigenlijk zelf niet waar voor en had Sanne me het uitgelegd dat het handig is wanneer je meerdere links met de zelfde benaming hebt. Dit is dan handig voor mensen die een wiel gebruiken om door links heen te gaan in je website.
+
+Ik had zelf ook een vraag voor mijn website. In mijn website zit een stukje waar een carousel tevoorschijnkomt als het scherm kleiner word. Sanne stelde voor om dan slechts de bolletjes van de navigation te hiden als het scherm groter word.
+
+Ook zei Sanne dat het niet nodig is om de navigation dropdown uit te werken.
+
+## Week 4 - Flexbox & JS
+
+### Flexbox
+
+Het was me gelukt met behulp van de FLexbox opdrachten 
